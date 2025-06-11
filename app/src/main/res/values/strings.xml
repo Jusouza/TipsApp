@@ -2,29 +2,17 @@
     <string name="app_name">TipsApp</string>
     <string name="tips_calculator">Tips calculator</string>
     <string name="subtitle">Fill the fields below to calculate the bill</string>
-    <string name="hint_total">Fill with total value of the bill</string>
+    <string name="hint_total">Fill with total value of the bill:</string>
+    <string name="hint_total_value">Ex: $ 100.00</string>
     <string name="hint_number_of_people">Fill with the number of people</string>
+    <string name="hint_number_of_people_value">Ex: 4</string>
+    <string name="hint_percentage">Fill with the tips percentage</string>
+    <string name="hint_percentage_value">Ex: 10%</string>
     <string name="btn_clean">Clean</string>
     <string name="btn_calculate">Calculate</string>
     <string name="fill_fields">Fill all the fields</string>
     <string name="result_message">Total with tips: %1$.2f</string>
-    <string name="perc_10">10%</string>
-    <string name="perc_15">15%</string>
-    <string name="perc_20">20%</string>
 
-    <string-array name="num_people">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-    </string-array>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
